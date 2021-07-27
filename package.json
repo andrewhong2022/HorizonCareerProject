@@ -1,0 +1,22 @@
+{
+  "name": "horizoncareerproject",
+  "version": "1.0.0",
+  "description": "We'll be using this space to tell you alllll about this project. When we make it. Maybe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewhong2022/HorizonCareerProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewhong2022/HorizonCareerProject/issues"
+  },
+  "homepage": "https://github.com/andrewhong2022/HorizonCareerProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
